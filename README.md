@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/gouseferoz/gouseferoz/master/hi.gif" width="30px">, I'm Gouse Feroz!
+### Hi there <img src="https://raw.githubusercontent.com/gouseferoz/gouseferoz/main/hi.gif" width="30px">, I'm Gouse Feroz!
 
 ### Github stats
 
