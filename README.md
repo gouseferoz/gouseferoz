@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=gouseferoz&color=green)
 
 
-![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=gouseferoz&show_icons=true&theme=onedark)
+![Feroz's github stats](https://github-readme-stats.vercel.app/api?username=gouseferoz&show_icons=true&theme=onedar)
 
 ---
 🧰 Toolbox
